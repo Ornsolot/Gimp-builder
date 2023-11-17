@@ -1,0 +1,9 @@
+[submodule "src/babl"]
+	path = src/babl
+	url = https://gitlab.gnome.org/GNOME/babl.git
+[submodule "src/gimp"]
+	path = src/gimp
+	url = https://gitlab.gnome.org/GNOME/gimp.git
+[submodule "src/gegl"]
+	path = src/gegl
+	url = https://gitlab.gnome.org/GNOME/gegl.git
