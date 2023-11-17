@@ -6,7 +6,7 @@ The current doc got typo and minor error.
 ## What does it do
 
 It's a base too install the last dev version of Gimp (bespoke for 2.99).
-Futher modification are needed but it kinda work and will be an usefu
+Futher modification are needed but it kinda work and will be an useful.
 
 ## How to do it
 
