@@ -28,8 +28,14 @@ sudo sh -c 'apt update && apt install libtool intltool meson asciidoc exiv2 libg
 source build.sh
 ```
 
-## Clean for update
+### Clean for update
 
 ```shell
 clean.sh
+```
+
+## Launch gimp
+
+```shell
+$GIMP_PREFIX/bin/gimp-2.99
 ```
