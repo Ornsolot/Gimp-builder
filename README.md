@@ -1,10 +1,12 @@
 # Gimp-builder
 
 Because i have too...
+The current doc got typo and minor error.
 
 ## What does it do
 
-it's a base ton install the last dev version of Gimp (bespoke for 2.99).
+It's a base too install the last dev version of Gimp (bespoke for 2.99).
+Futher modification are needed but it kinda work and will be an usefu
 
 ## How to do it
 
