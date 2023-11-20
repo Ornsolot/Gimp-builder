@@ -30,8 +30,10 @@ git clone --recurse-submodules git@github.com:Ornsolot/Gimp-builder.git
 
 ### Lunch the script
 
+Start the two following script at root to install gimp.
+
 ```shell
-source build.sh
+source env.sh && build.sh
 ```
 
 ### Clean for update
@@ -41,6 +43,8 @@ clean.sh
 ```
 
 ## Launch gimp
+
+If you have reboot your shell you must re lunch env.sh
 
 ```shell
 $GIMP_PREFIX/bin/gimp-2.99

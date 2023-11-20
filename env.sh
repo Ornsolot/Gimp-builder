@@ -1,4 +1,3 @@
-#!/bin/sh
 DIST=$(echo "$(lsb_release -is)" | awk '{print tolower($0)}')
 LIST="debian ubuntu"
 
